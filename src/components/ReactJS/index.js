@@ -12,7 +12,7 @@ function ReactJS() {
 
     <Container>
       <Title>React JS</Title>
-      <ReactTxt>This page is build with <A href="https://www.styled-components.com">React Styled Components</A>. Source Code on <A href="https://github.com/zetagraph/zetagraph.github.io/tree/src">Github</A>.</ReactTxt>
+      <ReactTxt>This page is build with <A href="https://www.styled-components.com">React Styled Components</A>. Source Code on <A href="https://github.com/zetagraph/zetagraph">Github</A>.</ReactTxt>
       <a href={"https://facebook.github.io/react"}><Img src={require(`./React.svg`)} alt="React"/></a>
     </Container>
 
