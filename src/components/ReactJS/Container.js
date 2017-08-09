@@ -2,12 +2,13 @@ import styled from 'styled-components';
 import { media } from '../Style-utils';
 
 const Container = styled.div`
-  padding: 2em 0;
+  padding: 1em 0;
   text-align: center;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid #eee;
+  background-color: #fafafa;
 
   ${media.tablet`
-    padding: 4em 0;
+    padding: 0.75em 0;
   `}
 `;
 
