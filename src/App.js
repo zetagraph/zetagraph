@@ -17,13 +17,13 @@ class App extends Component {
       <div className={this.props.className}>
 
         <Header/>
+        <Projects/>
+        <ProjectList/>
         <Intro/>
         <ItemList/>
         <Drupal/>
-        <Projects/>
-        <ProjectList/>
-        <ReactJS/>
         <Footer/>
+        <ReactJS/>
 
       </div>
     );
