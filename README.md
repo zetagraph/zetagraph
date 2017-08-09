@@ -21,6 +21,13 @@ $ yarn install
 $ yarn start
 ```
 
+## Linting
+
+
+```
+$ yarn lint:css
+```
+
 ## Build
 
 ```
