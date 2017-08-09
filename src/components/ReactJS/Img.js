@@ -2,13 +2,15 @@ import styled, { keyframes } from "styled-components";
 
 const pulsate = keyframes`
   0% {
-    opacity: 0.0;
+    opacity: 0;
   }
+
   50% {
-    opacity: 1.0;
+    opacity: 1;
   }
+
   100% {
-    opacity: 0.0;
+    opacity: 0;
   }
 `;
 

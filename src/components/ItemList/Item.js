@@ -13,7 +13,6 @@ const Item = styled.div`
   font-weight: 100;
   border-left: 1px solid #eee;
   border-bottom: 1px solid #eee;
-
   ${media.tablet`
     font-size: 2rem;
     min-height: 250px;

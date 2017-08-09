@@ -6,7 +6,6 @@ const ReactTxt = styled.div`
   padding: 0 1em;
   font-size: 0.9rem;
   color: #aaa;
-
   ${media.tablet`
     padding: 0;
   `}

@@ -6,7 +6,6 @@ const Container = styled.div`
   text-align: center;
   border-top: 1px solid #eee;
   background-color: #fafafa;
-
   ${media.tablet`
     padding: 0.75em 0;
   `}

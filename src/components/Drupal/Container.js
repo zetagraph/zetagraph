@@ -5,7 +5,6 @@ const Container = styled.div`
   padding: 2em 0;
   text-align: center;
   border-bottom: 1px solid #eee;
-
   ${media.tablet`
     padding: 4em 0;
   `}

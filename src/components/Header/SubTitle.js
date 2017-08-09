@@ -6,7 +6,6 @@ const SubTitle = styled.div`
   text-transform: uppercase;
   font-weight: 100;
   font-size: 1.4rem;
-
   ${media.tablet`
     font-size: 1.8rem;
   `}

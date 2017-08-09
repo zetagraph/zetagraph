@@ -14,7 +14,7 @@ const ItemLink = styled.a`
   border-bottom: 1px solid #eee;
   text-align: center;
   color: #333;
-  transition: .5s;
+  transition: 0.5s;
   text-decoration: none;
 
   &:hover {

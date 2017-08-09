@@ -6,7 +6,6 @@ const ItemTitle = styled.div`
   margin-bottom: 0.2em;
   font-weight: 700;
   color: #333;
-
   ${media.tablet`
     font-size: 2.4rem;
   `}

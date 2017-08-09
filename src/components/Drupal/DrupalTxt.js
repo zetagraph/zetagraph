@@ -3,7 +3,7 @@ import { media } from '../Style-utils';
 
 const DrupalTxt = styled.div`
   max-width: 90%;
-  margin: 0 auto 1em auto;
+  margin: 0 auto 1em;
   font-size: 1.5rem;
   font-weight: 100;
   color: #333;
