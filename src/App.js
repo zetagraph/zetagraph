@@ -17,11 +17,11 @@ class App extends Component {
       <div className={this.props.className}>
 
         <Header/>
-        <Projects/>
-        <ProjectList/>
         <Intro/>
         <ItemList/>
         <Drupal/>
+        <Projects/>
+        <ProjectList/>
         <Footer/>
         <ReactJS/>
 
@@ -32,4 +32,3 @@ class App extends Component {
 }
 
 export default App;
-

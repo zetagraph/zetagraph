@@ -2,11 +2,10 @@ import styled from 'styled-components';
 import { media } from '../Style-utils';
 
 const Container = styled.div`
-  padding: 2em 0;
+  padding: 3em 0 0;
   text-align: center;
-  border-bottom: 1px solid #eee;
   ${media.tablet`
-    padding: 4em 0 3.2em 0;
+    padding: 3em 0 2em;
   `}
 `;
 

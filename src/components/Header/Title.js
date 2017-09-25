@@ -7,7 +7,7 @@ const Title = styled.h1`
   font-size: 3rem;
   line-height: 1;
   ${media.tablet`
-    font-size: 4rem;
+    font-size: 3rem;
   `}
 `;
 

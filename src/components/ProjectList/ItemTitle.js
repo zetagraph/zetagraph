@@ -1,11 +1,11 @@
 import styled from 'styled-components';
 import { media } from '../Style-utils';
 
-const ItemTitle = styled.div`
+const ItemTitle = styled.h2`
   font-size: 2rem;
-  margin-bottom: 0.2em;
+  margin: 0;
   font-weight: 700;
-  color: #333;
+  transition: 0.5s;
   ${media.tablet`
     font-size: 2.4rem;
   `}

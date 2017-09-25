@@ -5,6 +5,7 @@ const Container = styled.div`
   ${media.tablet`
     display: flex;
     flex-wrap: wrap;
+    padding: 4em;
   `}
 `;
 

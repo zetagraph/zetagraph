@@ -10,20 +10,34 @@ const ItemLink = styled.a`
   min-width: 50%;
   padding: 2em;
   min-height: 180px;
-  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
   text-align: center;
-  color: #333;
   transition: 0.5s;
   text-decoration: none;
+  color: #000;
 
-  &:hover {
-    background-color: #fafafa;
+  &:hover h2 {
+    color: #ccc;
+  }
+
+  &:last-child {
+    border-bottom: none;
   }
 
   ${media.tablet`
     font-size: 2rem;
     min-height: 250px;
+
+    &:nth-child(2),
+    &:nth-child(4) {
+      border-right: none;
+    }
+
+    &:nth-child(n+3) {
+      border-bottom: none;
+    }
+
   `}
 `;
 

@@ -5,16 +5,15 @@ const IntroTxt = styled.div`
   max-width: 90%;
   margin: 0 auto;
   font-size: 1.5rem;
-  font-weight: 100;
-  color: #333;
+  font-weight: 300;
 
   span {
-    font-weight: 400;
+    font-weight: 700;
   }
 
   ${media.tablet`
-    max-width: 60%;
-    font-size: 2rem;
+    max-width: 70%;
+    font-size: 2.4rem;
   `}
 `;
 

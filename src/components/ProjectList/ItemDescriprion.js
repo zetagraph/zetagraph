@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { media } from '../Style-utils';
 
 const ItemDescription = styled.div`
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 300;
 
   span {
@@ -10,7 +10,7 @@ const ItemDescription = styled.div`
   }
 
   ${media.tablet`
-   font-size: 1.6rem;
+   font-size: 1.4rem;
   `}
 `;
 

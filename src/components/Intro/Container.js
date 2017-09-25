@@ -4,9 +4,11 @@ import { media } from '../Style-utils';
 const Container = styled.div`
   padding: 2em 0;
   text-align: center;
+  background: #fafafa;
+  border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
   ${media.tablet`
-    padding: 4em 0;
+    padding: 5em 0;
   `}
 `;
 
