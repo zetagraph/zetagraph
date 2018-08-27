@@ -11,18 +11,18 @@ function ProjectList() {
   return (
 
     <Container>
+      <ItemLink href="https://www.cheesebar.ca">
+        <ItemTitle>Cheesebar</ItemTitle>
+        <ItemSubTitle>Site Redesign</ItemSubTitle>
+        <ItemDescriprion>Role: <span>Front End Lead</span></ItemDescriprion>
+      </ItemLink>
       <ItemLink href="https://www.advil.com">
         <ItemTitle>Advil</ItemTitle>
         <ItemSubTitle>Site Redesign</ItemSubTitle>
         <ItemDescriprion>Role: <span>Front End Lead</span></ItemDescriprion>
       </ItemLink>
-      <ItemLink href="http://www.fisba.com">
-        <ItemTitle>Fisba</ItemTitle>
-        <ItemSubTitle>Site Redesign</ItemSubTitle>
-        <ItemDescriprion>Role: <span>Front End Lead</span></ItemDescriprion>
-      </ItemLink>
-      <ItemLink href="http://www.fox.com">
-        <ItemTitle>Fox</ItemTitle>
+      <ItemLink href="https://www.sesamestreet.org">
+        <ItemTitle>Sesame Street</ItemTitle>
         <ItemSubTitle>Site Redesign</ItemSubTitle>
         <ItemDescriprion>Role: <span>Front End Lead</span></ItemDescriprion>
       </ItemLink>
