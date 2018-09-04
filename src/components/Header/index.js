@@ -11,7 +11,7 @@ function Header() {
 
     <Container>
       <Title>Andrei Zvonkov</Title>
-      <SubTitle>Front End Developer</SubTitle>
+      <SubTitle>Front End Developer &middot; UI Designer</SubTitle>
       <Img src={require(`./AndreiZvonkov.jpg`)} alt="Andrei Zvonkov" />
     </Container>
 

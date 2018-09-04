@@ -24,7 +24,7 @@ function ProjectList() {
       <ItemLink href="https://www.sesamestreet.org">
         <ItemTitle>Sesame Street</ItemTitle>
         <ItemSubTitle>Site Redesign</ItemSubTitle>
-        <ItemDescriprion>Role: <span>Front End Lead</span></ItemDescriprion>
+        <ItemDescriprion>Role: <span>Front End Dev</span></ItemDescriprion>
       </ItemLink>
       <ItemLink href="http://dev-zetagraph.pantheonsite.io">
         <ItemTitle>Monoset</ItemTitle>
